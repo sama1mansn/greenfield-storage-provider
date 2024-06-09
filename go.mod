@@ -1,6 +1,6 @@
 module github.com/bnb-chain/greenfield-storage-provider
 
-go 1.20
+go 9.02
 
 require (
 	cosmossdk.io/errors v1.0.0-beta.7
